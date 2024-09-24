@@ -1,0 +1,236 @@
+#background{
+    background: url(coffee.jpg);
+    height: 100vh;
+    background-attachment: fixed;
+}
+#header_text{
+    display: flex;
+    align-items: center;
+}
+#header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+   
+}
+#home{
+    color: aliceblue;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+#coffee_masters{
+    color: aliceblue;
+    text-align: center;
+    letter-spacing: 0.5rem;
+    font-size: 4.5rem;
+    font-family: serif;
+   display: inline;
+}
+#shop_here{
+    height: 3rem;
+    width: 12rem;
+    border: solid aliceblue;
+    padding-top:1rem ;
+    cursor: pointer;
+    
+}
+#shop_here:hover{
+    background-color: antiquewhite;
+    
+}
+#shop_text{
+    font-size: 1.5rem;
+    color: aliceblue;
+    display: inline;
+    text-align: center;
+    
+}
+#shop_text:hover{
+    color: black;
+}
+#coffee_list{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding:40px;
+}
+
+#espresso_img{
+    border-radius: 20px;
+    height: 250px;
+    width: 250px;
+}
+#cappuccino_img{
+    border-radius: 20px;
+    height: 250px;
+    width: 250px;
+}
+#latte_img{
+    border-radius: 20px;
+    height: 250px;
+    width: 250px;
+}
+#ice_coffee_img{
+    border-radius: 20px;
+    height: 250px;
+    width: 250px;
+}
+#background2{
+    background: url(coffee\ background.jpg);
+    height: 110vh;
+   background-size: cover;
+    background-repeat: no-repeat;
+}
+#coffee_images{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding:40px;
+    
+  
+}
+#background3{
+    background: none;
+    height: 23rem;
+    padding-top: 10rem;
+}
+#numbers_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 2rem;
+}
+#num_250{
+    font-size: 4rem;
+    font-family: Georgia, serif;
+    color: burlywood;
+    display: inline;
+}
+#online_coffee{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   
+}
+
+#gallery_images{
+    display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+  row-gap: 1rem;
+}
+#coffeelogos{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+#background4{
+    background: url(coffee\ background.jpg);
+    height: 15rem;
+   background-size: cover;
+    background-repeat: no-repeat;
+}
+#para{
+   padding-top: 5rem;
+   padding-left: 10rem;
+   display: inline-block;
+   font-size: 2rem;
+}
+#contactus{
+    height: 2rem;
+    width: 7rem;
+    border: solid black;
+    display: inline-block;
+ margin-left: 15rem;
+ align-items: center;
+ text-align: center;
+ padding-top: 0.5rem;
+}
+#background5{
+    background: none;
+   
+   background-size: cover;
+    background-repeat: no-repeat;
+
+}
+#contact_page{
+    width: 35rem;
+    height: 135vh;
+    
+}
+#email_box{
+    height: 3.3rem;
+    width: 15rem;
+    background: none;
+    border: solid aliceblue;
+   
+}
+#mail{
+    height: 2.8rem;
+    width: 3rem;
+    background-color: aliceblue;
+    display: inline-block;
+   vertical-align: top;
+    padding: 0.5rem;
+    margin-left: -0.5rem;
+}
+
+#myfooter{
+    height: 8rem;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 3rem;
+}
+#shop_background1{
+    background: url(shop_background1.jpg);
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#coffeemarket{
+    font-style: italic;
+    font-size: 7rem;
+    color: aliceblue;
+   
+   padding-top: -3rem;
+}
+#shoponline{
+    font-size: 3rem;
+    color: aliceblue;
+    display: inline;
+
+}
+#para1{
+    color: aliceblue;
+    font-size: 2rem;
+}
+#backgrounddd{
+   background: url(body_background_coffee.webp);
+   
+   background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+#about_background{
+    background: url(about_background.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 90%;
+}
+#contact_background{
+    background: url(contact_background\ 1\ \(1\)figma.png);
+   
+   height: 80vh;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
